@@ -6,10 +6,7 @@
 
 ## 案例
 
-| 案例说明 | 图片 | PDF 页码 |
-| --- | --- | --- |
-| [Los Cuatro Genios / The Beatles](./%E6%A1%88%E4%BE%8B-01.md) | [案例图](./%E6%A1%88%E4%BE%8B-01.jpg) | 23 |
-| [Too Big to Fail, or to Survive](./%E6%A1%88%E4%BE%8B-02.md) | [案例图](./%E6%A1%88%E4%BE%8B-02.jpg) | 23 |
+当前暂无案例。
 
 ## 相关数据逻辑
 

@@ -6,10 +6,7 @@ Single chart。以一个主要比较或排序结构统领主体，多余细节�
 
 ## 案例
 
-| 案例说明 | 图片 | PDF 页码 |
-| --- | --- | --- |
-| [Sky’s the Limit](./%E6%A1%88%E4%BE%8B-01.md) | [案例图](./%E6%A1%88%E4%BE%8B-01.jpg) | 31 |
-| [The World’s Greatest Rockets](./%E6%A1%88%E4%BE%8B-02.md) | [案例图](./%E6%A1%88%E4%BE%8B-02.jpg) | 31 |
+当前暂无案例。
 
 ## 相关数据逻辑
 

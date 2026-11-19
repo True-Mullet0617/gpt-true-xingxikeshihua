@@ -6,10 +6,7 @@ Hierarchical Infographics。以分区、楼层或嵌套关系表现整体中的�
 
 ## 案例
 
-| 案例说明 | 图片 | PDF 页码 |
-| --- | --- | --- |
-| [The Magnificent Bears of Finland](./%E6%A1%88%E4%BE%8B-01.md) | [案例图](./%E6%A1%88%E4%BE%8B-01.jpg) | 30 |
-| [心形多层场景](./%E6%A1%88%E4%BE%8B-02.md) | [案例图](./%E6%A1%88%E4%BE%8B-02.jpg) | 30 |
+当前暂无案例。
 
 ## 相关数据逻辑
 
