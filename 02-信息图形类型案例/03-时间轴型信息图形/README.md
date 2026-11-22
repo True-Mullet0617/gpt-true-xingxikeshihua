@@ -6,7 +6,7 @@
 
 ## 案例
 
-当前暂无案例。
+- [Royal Station Hotel 历史时间轴](./royal-station-hotel-timeline.md)：编年型案例，使用中央曲线时间轴与左右图文注释。
 
 ## 相关数据逻辑
 
