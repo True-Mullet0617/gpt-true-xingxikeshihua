@@ -12,3 +12,9 @@ Hierarchical Infographics。以分区、楼层或嵌套关系表现整体中的�
 
 - [层级型概念定义](../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/02-%E5%B1%82%E7%BA%A7%E5%9E%8B%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md)
 - [地理图形信息图形概念定义](../../01-%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E9%80%BB%E8%BE%91/05-%E5%9C%B0%E7%90%86%E5%9B%BE%E5%BD%A2%E4%BF%A1%E6%81%AF%E5%9B%BE%E5%BD%A2%E6%A6%82%E5%BF%B5%E5%AE%9A%E4%B9%89.md)
+
+## 补充研究与材料
+
+- [详细方法与五维分析](./00-%E6%A0%87%E7%AD%BE%E8%AF%B4%E6%98%8E.md)
+- [案例材料目录](./%E6%A1%88%E4%BE%8B/README.md)
+- [全库案例索引](../%E6%A1%88%E4%BE%8B%E7%B4%A2%E5%BC%95.md)
